@@ -1,0 +1,15 @@
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\bin\Debug\net6.0\Singleton.exe
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\bin\Debug\net6.0\Singleton.deps.json
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\bin\Debug\net6.0\Singleton.dll
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\bin\Debug\net6.0\Singleton.pdb
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\Singleton.dll
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\Singleton.pdb
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+C:\repos\PersonalProjects\DesignPatterns\Creational\Singleton\obj\Debug\net6.0\ref\Singleton.dll
